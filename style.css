@@ -66,35 +66,35 @@ body {
 
 .die-item[data-side="6"] {
   background-color: #f3e6a4;
-  background-image: url(burja.png);
+  background-image: url(images/burja.png);
   background-size: contain;
 }
 
 .die-item[data-side="5"] {
   background-color: #f3e6a4;
-  background-image: url(langur.png);
+  background-image: url(images/langur.png);
   background-size: contain;
   background-repeat: no-repeat;
   
 }
 .die-item[data-side="4"] {
   background-color: #f3e6a4;
-  background-image: url(diamonds.jpg);
+  background-image: url(images/diamonds.jpg);
   background-size: contain;
 }
 .die-item[data-side="3"] {
   background-color:#f3e6a4;
-  background-image: url(clubs.png);
+  background-image: url(images/clubs.png);
   background-size: contain;
 }
 .die-item[data-side="2"] {
   background-color:#f3e6a4;
-  background-image: url(spades.png);
+  background-image: url(images/spades.png);
   background-size: contain;
 }
 .die-item[data-side="1"] {
   background-color:#f3e6a4;
-  background-image: url(hearts.jpg);
+  background-image: url(images/hearts.jpg);
   background-size: contain;
 }
 .even-roll[data-roll="1"] {
